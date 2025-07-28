@@ -158,8 +158,10 @@ Este projeto é de uso educacional e pode ser expandido para soluções reais.
 
 ```   ## Screenhots
 
-![Screenshot 1](./iot-pipeline/screenshot_1.png)
+<img width="569" height="378" alt="image" src="https://github.com/user-attachments/assets/06742ae4-8333-4ed1-87fa-0b9e62572f21" />
 
-![Screenshot 2](./iot-pipeline/screenshot_2.png)
 
-![Screenshot 3](./iot-pipeline/screenshot_3.png)
+<img width="584" height="294" alt="image" src="https://github.com/user-attachments/assets/d1b2a4f6-2a25-4381-8cac-ed733a733dce" />
+
+
+<img width="608" height="374" alt="image" src="https://github.com/user-attachments/assets/8cbda1ca-54e7-4b5c-ab57-3d318b5bb347" />
