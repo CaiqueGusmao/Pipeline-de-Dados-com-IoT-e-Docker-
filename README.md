@@ -157,13 +157,14 @@ Desenvolvido por **Caique** com foco em integração de tecnologias de IoT, dado
 Este projeto é de uso educacional e pode ser expandido para soluções reais.
 
 ```   ## Screenhots
-<span align-"center">
+</p align="center">
 <img width="933" height="575" alt="Image" src="https://github.com/user-attachments/assets/4e40ddf1-92ee-49f9-8b53-e8098b738024" />
-</div>
+</p>
 
-<span align-"center">
+</p align="center">
 <img width="925" height="614" alt="Image" src="https://github.com/user-attachments/assets/3d26de51-a81d-410b-a85b-f8181ba041eb" />
+</p>
 
-<span align-"center">
+</p align="center">
 <img width="794" height="399" alt="Image" src="https://github.com/user-attachments/assets/5c7a2eb1-cd0e-4794-a7f2-dd808d4247ee" />
-</div>
+</p>
