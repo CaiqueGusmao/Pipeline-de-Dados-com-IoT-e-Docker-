@@ -158,7 +158,7 @@ Este projeto é de uso educacional e pode ser expandido para soluções reais.
 
 ```   ## Screenhots
 
-<img width="569" height="378" alt="image" src="https://github.com/user-attachments/assets/06742ae4-8333-4ed1-87fa-0b9e62572f21" />
+https://github.com/CaiqueGusmao/Pipeline-de-Dados-com-IoT-e-Docker-/blob/main/screenshot_1.png?raw=true
 
 
 <img width="584" height="294" alt="image" src="https://github.com/user-attachments/assets/d1b2a4f6-2a25-4381-8cac-ed733a733dce" />
