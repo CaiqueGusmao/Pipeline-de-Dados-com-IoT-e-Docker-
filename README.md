@@ -161,7 +161,7 @@ Este projeto é de uso educacional e pode ser expandido para soluções reais.
 https://github.com/CaiqueGusmao/Pipeline-de-Dados-com-IoT-e-Docker-/blob/main/screenshot_1.png?raw=true
 
 
-<img width="584" height="294" alt="image" src="https://github.com/user-attachments/assets/d1b2a4f6-2a25-4381-8cac-ed733a733dce" />
+[<img width="584" height="294" alt="image" src="https://github.com/user-attachments/assets/d1b2a4f6-2a25-4381-8cac-ed733a733dce" />](https://github.com/CaiqueGusmao/Pipeline-de-Dados-com-IoT-e-Docker-/blob/main/screenshot_2.png?raw=true)
 
 
 <img width="608" height="374" alt="image" src="https://github.com/user-attachments/assets/8cbda1ca-54e7-4b5c-ab57-3d318b5bb347" />
